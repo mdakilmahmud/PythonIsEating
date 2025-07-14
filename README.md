@@ -19,10 +19,10 @@ PythonIsEating is a simple but engaging Snake Game built with Python and Tkinter
 
 # 👥 Team Information
 
-Team Name	     Member's Name	        Student ID
-SssyntaxError	Tasnim Nawar Ahamed	    0152430031
-              Md. Sajim Islam Jahin	  0152430063
-              Md. Akil Mahmud	        0152430069
+Team Name: SyntaxError
+Member's Name: Tasnim Nawar Ahamed (0152430031)
+Md. Sajim Islam Jahin	(0152430063)
+Md. Akil Mahmud (0152430069)
 
 University: United International University (UIU)
 
