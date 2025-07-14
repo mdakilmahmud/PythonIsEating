@@ -44,9 +44,12 @@ Collaborate effectively as a team on a coding project.
 
 # ⚙️ How to Run the Game
 1️⃣ Clone or download this repository.
+
 2️⃣ Make sure Python 3.x is installed on your system.
+
 3️⃣ Run the game using:
 python PYTHONISEATING.py
+
 4️⃣ Play, pause, change snake colors, and try to beat the high score!
 
 # 💡 What We Learned
