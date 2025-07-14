@@ -1,4 +1,5 @@
 🐍 PythonIsEating
+
 📌 Project Overview
 PythonIsEating is a classic Snake Game implemented in Python using the Tkinter library. This project was developed as part of our university coursework at United International University (UIU). The game demonstrates basic GUI programming, event handling, file handling, and game logic in Python.
 
