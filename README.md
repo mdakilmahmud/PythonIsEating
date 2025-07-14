@@ -4,18 +4,25 @@
 PythonIsEating is a simple but engaging Snake Game built with Python and Tkinter. It was developed as a part of our university coursework at United International University (UIU) to strengthen our understanding of Python GUI programming, event handling, and basic game logic.
 
 # 🎮 Key Features
+
 ✅ Classic Snake Gameplay — Control the snake with arrow keys, eat food, and grow longer.
+
 ✅ Random Food Spawning — Food appears at random positions each time.
+
 ✅ High Score System — Keeps track of the highest score across game sessions (high_score.txt).
+
 ✅ Pause & Restart — Pause the game anytime or restart for a fresh run.
+
 ✅ Custom Snake Color — Pick your favorite snake color using a built-in color picker.
+
 ✅ User-Friendly Interface — Start screen with a title and easy-to-use Play button.
 
 # 👥 Team Information
-Team Name	Member's Name	Student ID
-SssyntaxError	Tasnim Nawar Ahamed	0152430031
-Md. Sajim Islam Jahin	0152430063
-Md. Akil Mahmud	0152430069
+
+Team Name	     Member's Name	        Student ID
+SssyntaxError	Tasnim Nawar Ahamed	    0152430031
+              Md. Sajim Islam Jahin	  0152430063
+              Md. Akil Mahmud	        0152430069
 
 University: United International University (UIU)
 
